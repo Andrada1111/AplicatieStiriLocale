@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#A2E0FB"
+    tools:context=".Iohannis">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="330dp"
+        android:layout_height="612dp"
+        android:text="Președintele Klaus Iohannis s-a întâlnit, la Politehnică, și cu un grup de refugiați ucraineni, care sunt cazați
+        în căminele Universității, alături de studenții români.
+„Ne dorim cu toții să se termine cât se poate de repede acest război absolut aiurea și să ajungem în situația în care studenții pot continua studiile, ceilalți să vă întoarceți acasă și să trăiți în pace, să vă construiți țara așa cum vă doriți. Noi încercăm să ajutăm Ucraina și pe ucrainenii refugiați la noi. Vă doresc multă sănătate și Dumnezeu să vă dea putere”, le-a spus Klaus
+Iohannis unor refugiați ucraineni cazați în căminele Universității."
+        android:textSize="24dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        tools:ignore="UnknownIdInLayout" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+
+
+
+
+
+
+

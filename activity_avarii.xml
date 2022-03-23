@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:layout_editor_absoluteX="1dp"
+    tools:layout_editor_absoluteY="1dp">
+<androidx.constraintlayout.widget.ConstraintLayout
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#A2E0FB"
+    tools:context=".Avarii">
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="372dp"
+        android:layout_height="612dp"
+        android:scrollbarSize="15dp"
+        android:text="O conductă care transportă apă uzată şi care aparţine Complexului Energetic Oltenia. Sucursala II Craiova a crăpat în această dimineaţă. Apa amestecată cu cenuşă a ţâşnit cu presiune la o înălţime de aproape 10 metri, inundând zona din jur. Apa a ajuns şi pe acoperişul unui service din imediata vecinătate. Nu este pentru prima dată când conducta care transportă apă murdară spre halda de cenuşă se fisurează.Ultimul incident de acest fel a avut loc în vara anului 2021. Atunci,s-a produs o avarie la aceeaşi conductă care transporta apă uzată de la SE II Craiova la halda de cenuşă din Valea Mânăstirii.  Din cauza presiunii, apa a ţâşnit cu putere precum o fântână arteziană. Cenuşa lichidă a distrus un hectar de cultură bio de căpşuni şi alte diverse culturi agricole din preajma conductei."
+        android:textSize="24dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        tools:ignore="UnknownIdInLayout" />
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
